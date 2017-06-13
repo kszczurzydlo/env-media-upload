@@ -1,0 +1,5 @@
+---
+bucket_name: "kanclerj"
+queue_name: "kanclerj"
+queue_region: "eu-west-1"
+mandrill_api_key: "4OBwBXURpKwI5QLQv8LQ1g"
